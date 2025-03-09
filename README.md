@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi👋, i´m JonathanG
+  Hi👋, i´m Jonathan gallego Espinosa
 </h1>
 
 I am a software and hardware development enthusiast, I enjoy continuous learning, especially learning how to solve everyday problems.
@@ -7,7 +7,8 @@ I am a software and hardware development enthusiast, I enjoy continuous learning
 *   🌍  I'm based in Colombia
 *   🖥️  See my portfolio at [here](working)
 *   🚀  I'm not working, but I'm learning 
-*   🧠  I'm learning Angular.js
+*   🧠  I'm learning Angular.js, java, .net, react
+*   
 
 
 ## Technologies 💻
